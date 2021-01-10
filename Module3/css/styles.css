@@ -1,0 +1,45 @@
+body {
+	font-size: 16px;
+	color: white;
+	background-color: #85929E;
+}
+
+/* HEADER */
+#header-nav {
+	border-radius: 0;
+	border: 0;
+	color: white;
+}
+
+a:focus, a:hover {
+	text-decoration: none;
+}
+
+#nav-list a {
+	color: white;
+	text-align: center;
+}
+
+#nav-list a:hover {
+	background-color: #737373;
+	border: 1px solid white;
+}
+/* END HEADER */
+
+/* Section */
+h3{
+	color: white;
+}
+
+
+.row {
+	
+	position: relative;
+	float: left;
+	background-color: #737373;
+	text-align: justify;
+	padding: 12px;
+	color: white;
+	margin: 0 15px;
+	margin-bottom: 20px;
+}
